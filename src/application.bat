@@ -1,4 +1,4 @@
-### application.bat - 2015 - boussard ###
+### application.bat - 2015 - boussard - TOTO ###
 version = "2"
 build_hour = "11h00"
 
