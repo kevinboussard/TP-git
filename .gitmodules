@@ -1,0 +1,3 @@
+[submodule "Shifumi"]
+	path = Shifumi
+	url = git@github.com:Knouki/Shifumi.git
